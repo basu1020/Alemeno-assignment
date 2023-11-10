@@ -1,3 +1,7 @@
+# Video link for the project
+
+https://github.com/basu1020/Alemeno-assignment
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
